@@ -24,8 +24,8 @@
                 <version>2.21.0</version>
                 <configuration>
                     <systemPropertyVariables>
-                        <propertyName>firefox</propertyName>
-                        <JiraIssueKey>default</JiraIssueKey>
+                        <Browser>default browser</Browser>
+                        <JiraIssueKey>default jira issue key</JiraIssueKey>
                     </systemPropertyVariables>
                 </configuration>
             </plugin>
