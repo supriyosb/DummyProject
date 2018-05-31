@@ -25,6 +25,7 @@
                 <configuration>
                     <systemPropertyVariables>
                         <propertyName>firefox</propertyName>
+                        <JiraIssueKey>default</JiraIssueKey>
                     </systemPropertyVariables>
                 </configuration>
             </plugin>
