@@ -12,4 +12,8 @@ public class SmsBase {
     public String getAuthToken(){
         return authToken;
     }
+
+    public Initializer initializer(){
+        return new Initializer(authToken);
+    }
 }
